@@ -1,7 +1,7 @@
 # portfolio
 Showcasing own web design and development work.
 
-Live site: reaiiybigshrimp.github.io/
+Live site: https://reaiiybigshrimp.github.io/
 
 Tools used: <br>
 
